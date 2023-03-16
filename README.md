@@ -1,6 +1,6 @@
 # PASS BY REFERENCE VS PASS BY VALUE
 
-Here are five micro videos explaining both **Pass By Value** for _primitive types_ and **Pass By Reference** for _complex types_. <br />Included are also the gotchas of nested objects and/or arrays as properties/elements inside other objects and/or arrays respectively.
+Here are five micro videos explaining both **Pass By Value** for _primitive types_ and **Pass By Reference** for _complex types_. <br /><br />Included are also the gotchas of nested objects and/or arrays as properties/elements inside other objects and/or arrays respectively.
 
 1. [Part 1: Pass By Value Conceptualized](https://drive.google.com/file/d/13oDcd34M-Gat-g-8g0v5AMGm22jrTMHl/view?usp=sharing)
 1. [Part 2: Pass By Reference Conceptualized](https://drive.google.com/file/d/1KXLRBIxYXAPm5rvlRkTvJZ_lFZKNpxv5/view?usp=sharing)
